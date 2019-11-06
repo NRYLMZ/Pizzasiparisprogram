@@ -1,0 +1,9 @@
+c:\users\t3str\documents\visual studio 2010\Projects\Pizza\Pizza\bin\Debug\Pizza.exe
+c:\users\t3str\documents\visual studio 2010\Projects\Pizza\Pizza\bin\Debug\Pizza.pdb
+c:\users\t3str\documents\visual studio 2010\Projects\Pizza\Pizza\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\t3str\documents\visual studio 2010\Projects\Pizza\Pizza\obj\x86\Debug\Pizza.Form1.resources
+c:\users\t3str\documents\visual studio 2010\Projects\Pizza\Pizza\obj\x86\Debug\Pizza.Properties.Resources.resources
+c:\users\t3str\documents\visual studio 2010\Projects\Pizza\Pizza\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\t3str\documents\visual studio 2010\Projects\Pizza\Pizza\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\t3str\documents\visual studio 2010\Projects\Pizza\Pizza\obj\x86\Debug\Pizza.exe
+c:\users\t3str\documents\visual studio 2010\Projects\Pizza\Pizza\obj\x86\Debug\Pizza.pdb
